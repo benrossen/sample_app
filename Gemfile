@@ -25,6 +25,10 @@ group :production do
 	gem 'rails_12factor', '0.0.2'
 end
 
+# add bootstrap
+gem 'bootstrap-sass', '2.3.2.0'
+gem 'sprockets', '2.11.0'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '4.0.1'
 
